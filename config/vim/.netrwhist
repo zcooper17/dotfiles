@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/zane/Study/programming_cs/programming_textbook_solutions/Introduction to Computing Systems/CSE240UPENN2006_HW7'
+let g:netrw_dirhist_1='/home/zane/testing/rirc/src'
+let g:netrw_dirhist_0='/home/zane/testing/rirc'
+let g:netrw_dirhist_9='/home/zane'
+let g:netrw_dirhist_8='/home/zane/testing/rirc/src'
+let g:netrw_dirhist_7='/home/zane/testing/rirc'
+let g:netrw_dirhist_6='/home/zane/testing/rirc/src'
+let g:netrw_dirhist_5='/home/zane/testing/rirc/src/components'
+let g:netrw_dirhist_4='/home/zane/testing/rirc/src'
+let g:netrw_dirhist_3='/home/zane/testing/rirc'

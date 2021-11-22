@@ -1,0 +1,17 @@
+"let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum" "enable needed option for termguicolors
+"let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum" "enable needed option for termguicolors
+"set termguicolors    " use true colors
+set encoding=utf-8
+set background=dark  " set background option to dark
+syntax enable       "enable syntax processing
+:colorscheme gruvbox "colorscheme I'm using
+set tabstop=4       "number of visual tabs per space
+set softtabstop=4   "number of spaces in tab when editing
+set expandtab	    "tabs are spaces
+set number          "show line numbers
+"highlight LineNr ctermbg=0
+set cursorline      "highlight cursor line
+filetype indent on  "load filetype-specific indent files
+set showmatch       "highlight matching parenthases and brackets
+set colorcolumn=80
+"highlight ColorColumn ctermbg=0 guibg=lightgrey
